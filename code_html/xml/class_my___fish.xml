@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.14">
+  <compounddef id="class_my___fish" kind="class" language="C++" prot="public">
+    <compoundname>My_Fish</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_my___fish_1a262ba0b457eccb67e9895c4f4e2152c7" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int My_Fish::mother</definition>
+        <argsstring></argsstring>
+        <name>mother</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/Doxygen/class.h" line="28" column="1" bodyfile="G:/Doxygen/class.h" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_my___fish_1a598f22749071e6e669f661b06bdf1983" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int My_Fish::father</definition>
+        <argsstring></argsstring>
+        <name>father</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/Doxygen/class.h" line="29" column="1" bodyfile="G:/Doxygen/class.h" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_my___fish_1a5da5a4a2d6a2f5087d69723e4c52b404" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>My_Fish::My_Fish</definition>
+        <argsstring>(int temp1, int temp2)</argsstring>
+        <name>My_Fish</name>
+        <param>
+          <type>int</type>
+          <declname>temp1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>temp2</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="G:/Doxygen/class.h" line="32" column="1" bodyfile="G:/Doxygen/class.h" bodystart="32" bodyend="39"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="G:/Doxygen/class.h" line="25" column="1" bodyfile="G:/Doxygen/class.h" bodystart="24" bodyend="42"/>
+    <listofallmembers>
+      <member refid="class_my___fish_1a598f22749071e6e669f661b06bdf1983" prot="private" virt="non-virtual"><scope>My_Fish</scope><name>father</name></member>
+      <member refid="class_my___fish_1a262ba0b457eccb67e9895c4f4e2152c7" prot="private" virt="non-virtual"><scope>My_Fish</scope><name>mother</name></member>
+      <member refid="class_my___fish_1a5da5a4a2d6a2f5087d69723e4c52b404" prot="public" virt="non-virtual"><scope>My_Fish</scope><name>My_Fish</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

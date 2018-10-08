@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1538996201 source:c:\users\kevin\desktop\test_doxygen\class.cpp
+
+1538997210 source:c:\users\kevin\desktop\test_doxygen\main.cpp
+	"class.h"
+
+1538998029 c:\users\kevin\desktop\test_doxygen\class.h
+	"iostream"
+

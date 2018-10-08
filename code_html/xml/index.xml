@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.14">
+  <compound refid="class_my___fish" kind="class"><name>My_Fish</name>
+    <member refid="class_my___fish_1a262ba0b457eccb67e9895c4f4e2152c7" kind="variable"><name>mother</name></member>
+    <member refid="class_my___fish_1a598f22749071e6e669f661b06bdf1983" kind="variable"><name>father</name></member>
+    <member refid="class_my___fish_1a5da5a4a2d6a2f5087d69723e4c52b404" kind="function"><name>My_Fish</name></member>
+  </compound>
+  <compound refid="namespacestd" kind="namespace"><name>std</name>
+  </compound>
+  <compound refid="class_8cpp" kind="file"><name>class.cpp</name>
+  </compound>
+  <compound refid="class_8h" kind="file"><name>class.h</name>
+    <member refid="class_8h_1aeb2ca287f73963c14992471631d357b1" kind="define"><name>CNT_MAX</name></member>
+  </compound>
+  <compound refid="main_8cpp" kind="file"><name>main.cpp</name>
+    <member refid="main_8cpp_1a840291bc02cba5474a4cb46a9b9566fe" kind="function"><name>main</name></member>
+  </compound>
+  <compound refid="_r_e_a_d_m_e_8md" kind="file"><name>README.md</name>
+  </compound>
+  <compound refid="md__g_1__doxygen__r_e_a_d_m_e" kind="page"><name>md_G:_Doxygen_README</name>
+  </compound>
+  <compound refid="dir_46f3f16a08addb3722a604ad3cd19b89" kind="dir"><name>G:/Doxygen</name>
+  </compound>
+  <compound refid="dir_934f46a345653ef2b3014a1b37a162c1" kind="dir"><name>G:</name>
+  </compound>
+</doxygenindex>
